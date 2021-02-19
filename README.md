@@ -35,9 +35,9 @@ https://ecf.network/
 *The Ethereum Community Fund is similar to the EF in that it wishes to advance the Ethereum ecosystem, however is backed by several founding members including Cosmos, OmiseGo, Maker, Golem, Web3 and Status. Typical grant amounts range from $10,000 to $100,000; in general, ECF will provide funding that will initially cover 6 months of runway. See previously funded ECF alumni [here](https://medium.com/ecf-review/meet-the-grantees-ecf-class-of-2018-part-ii-ff46a284a0b1). Interested parties can submit an application [here](https://docs.google.com/forms/d/e/1FAIpQLScJoqPd1VeBLtmjUm4Cde_H12uFjS_a1HkSd8czRhDFCQJCPQ/viewform).*
 
 ### Ethereum Foundation 
-https://app.tettra.co/teams/ethereum/pages/applying-for-ef-grants * official website coming soon
+https://esp.ethereum.foundation
 
-*The Ethereum Foundation grants have committed over $11M to over 52 projects since they kicked off their program at the start of 2018. They fund projects that are committed to advancing the Ethereum ecosystem; a rather broad mandate covering public infrastructure and community goods. Preceding the funding of each wave, the EF [publishes a wish list](https://blog.ethereum.org/2018/08/17/ethereum-foundation-grants-update-wave-3/) for the types of projects that they hope to see apply.*
+*The Ethereum Foundation's Ecosystem Support Program (ESP), which evolved from the original EF grants program, provides financial and non-financial support to projects across the Ethereum ecosystem. ESP's focus is on open source public goods projects that benefit Ethereum, such as public infrastructure, research, dev tooling, community building and educational resources. Updates on funded projects are regularly published to the ESP [blog](https://blog.ethereum.org/category/ecosystem-support-program/). The [Guide to ESP](https://esp.ethereum.foundation/en/guide/) contains more information on ESP's mission and processes, including how to initiate a request for support via the public [inquiry form](https://esp.ethereum.foundation/en/inquire/).*
 
 ### ConsenSys Grants
 https://pages.consensys.net/consensys-grants
